@@ -1,4 +1,4 @@
-# [Proyecto de prueba de repositorio]
+# Proyecto de prueba de repositorio
 ## Instrucción
 ### Aquí iniciamos ficheros para aprender sobre el uso de Git
 Estudiamos Git para usarlo en un proyecto de Diseño Web **Profesional**.
