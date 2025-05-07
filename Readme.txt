@@ -1,7 +1,3 @@
-echo "# LabGithree" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin "/////"
-git push -u origin main
+Proectode prueba de repositorio
+instruccion
+Aqui inicioamos ficheros para aprender sobre el uso git
