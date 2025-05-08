@@ -15,4 +15,4 @@ Estudiamos Git para usarlo en un proyecto de Diseño Web **Profesional**.
 - [ ] Añadir primeros ficheros.
 - [ ] Configurar entorno de desarrollo.
 
-Este sitio los puedes buscar para ayuddarte aprender (github)[https://docs.github.com/es]
+Este sitio los puedes buscar para ayuddarte aprender (github) [https://docs.github.com/es]
